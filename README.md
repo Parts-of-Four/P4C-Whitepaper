@@ -17,7 +17,7 @@ The project has iterated rapidly since its inception and this “super-lite” p
 
 - Massive burn events have already taken place and will continue.
 
-- The token distribution is as follows: 10% Team, 15% Treasury, 25% liquidity, and 50% community.
+- The token distribution is as follows: 10% team, 15% treasury, 25% liquidity, and 50% community.
 
 
 ## Team Members
@@ -34,3 +34,9 @@ We believe tokenomics should be about system holistic design and not about the q
   - 1% of every transaction is pooled for community-voted use cases.
 
 - **Token Buybacks and Burns**. Our goal is to use NFT sales to drive value into the token, and a simple and direct method to do this is to buyback and burn tokens at a prescribed rate. Currently, our intention is to use 3% of NFT sales to buy back P4C tokens and burn them.
+
+
+## Links
+- [Parts of Four Coin page](https://partsof4.com/pages/p4c)
+- [Parts of Four NFT page](https://partsof4)
+- [Telegram](https://t.me/partsof4)
