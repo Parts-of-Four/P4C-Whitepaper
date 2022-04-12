@@ -16,8 +16,11 @@ The project has iterated rapidly since its inception and this “super-lite” p
 - 3.2 trillion P4C tokens, initially planned to be released over time, are now scheduled to be burnt on an annual basis. The total supply of tokens is now capped at 12.6 billion and will only deflate as we implement various mechanisms in the tokenomics and the NFT economic design space.
 
 - Massive burn events have already taken place and will continue.
+  ![Burn Calendar](images/burn-calendar.png)
 
 - The token distribution is as follows: 10% team, 15% treasury, 25% liquidity, and 50% community.
+
+  ![Token Distribution](images/token-distribution.png)
 
 
 ## Team Members
@@ -32,6 +35,8 @@ We believe tokenomics should be about system holistic design and not about the q
   - 1% of every transaction is distributed to holders.
   - 1% of every transaction is burned, continuously reducing supply.
   - 1% of every transaction is pooled for community-voted use cases.
+
+    ![Deflationary Reflections](images/deflationary-reflections.png)
 
 - **Token Buybacks and Burns**. Our goal is to use NFT sales to drive value into the token, and a simple and direct method to do this is to buyback and burn tokens at a prescribed rate. Currently, our intention is to use 3% of NFT sales to buy back P4C tokens and burn them.
 
