@@ -7,18 +7,16 @@ The project has iterated rapidly since its inception and this “super-lite” p
 
 ## A Brief History of P4C
 
-- The P4C community token was conceived initially as a foray into the space by the jewelry brand, Parts of Four. It was launched as a Uniswap liquidity pool and the remaining tokens were locked into a Unicrypt vault.
+- The P4C community token was conceived initially as a foray into the space by [Parts of Four](https://partsof4.com), a jewelry brand. It was launched as a Uniswap liquidity pool and the remaining tokens were locked into a Unicrypt vault.
 
-- Soon after, a decision was made to pivot from a business oriented and profit-driven token to, instead, a community oriented token with a nominal 10% allocation for the team and 15% allocation for the system treasure to fund development ideas and bootstrap engagement.
+- Soon after, a decision was made to pivot from a profit-driven and business oriented token to a community oriented token.
 
--
-
-- 3.2 trillion P4C tokens, initially planned to be released over time, are now scheduled to be burnt on an annual basis. The total supply of tokens is now capped at 12.6 billion and will only deflate as we implement various mechanisms in the tokenomics and the NFT economic design space.
+- 3.2 trillion tokens, initially planned to be released over time, are now scheduled to be burnt on an annual basis. The total supply of tokens is now capped at 12.6 billion and will only deflate as we implement various mechanisms in the tokenomics and the NFT economic design space.
 
 - Massive burn events have already taken place and will continue.
   ![Burn Calendar](images/burn-calendar.png)
 
-- The token distribution is as follows: 10% team, 15% treasury, 25% liquidity, and 50% community.
+- The token distribution is as follows: 10% for the team, 15% for the system treasure to fund development ideas and bootstrap engagement, 25% liquidity, and 50% community.
 
   ![Token Distribution](images/token-distribution.png)
 
@@ -29,14 +27,14 @@ The project has iterated rapidly since its inception and this “super-lite” p
 ## Tokenomics
 We believe tokenomics should be about system holistic design and not about the quantity of tokens or token distribution. We believe in using the token to incentivise value storage and value creation, as well as to attract a broader user base into the ecosystem. The token is being used as follows.
 
-- **Rarity Burning**.
-
 - **Deflationary Reflections**. P4C is programmed to redistribute to holders, decrease supply, and create reward pools by applying a 3% tax to all transactions. The tax will be distributed in the following manner:
   - 1% of every transaction is distributed to holders.
   - 1% of every transaction is burned, continuously reducing supply.
   - 1% of every transaction is pooled for community-voted use cases.
 
     ![Deflationary Reflections](images/deflationary-reflections.png)
+
+- **Rarity Burning**.
 
 - **Token Buybacks and Burns**. Our goal is to use NFT sales to drive value into the token, and a simple and direct method to do this is to buyback and burn tokens at a prescribed rate. Currently, our intention is to use 3% of NFT sales to buy back P4C tokens and burn them.
 
