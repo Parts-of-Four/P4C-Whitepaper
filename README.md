@@ -1,4 +1,4 @@
-# Parts of Four (P4C) Whitepaper
+# Parts of Four Coin (P4C) Whitepaper
 
 **Parts of Four Coin (P4C)** is an ERC-20 token deployed on the Ethereum blockchain and listed on Uniswap through an AMM mechanism. While its principal utility is to function as an upgrade token for Parts of Four NFTs, the grander vision is to bootstrap a community around jewelry as art.
 
