@@ -34,9 +34,9 @@ We believe tokenomics should be about system holistic design and not about the q
 
     ![Deflationary Reflections](images/deflationary-reflections.png)
 
-- **Rarity Burning**.
-
 - **Token Buybacks and Burns**. Our goal is to use NFT sales to drive value into the token, and a simple and direct method to do this is to buyback and burn tokens at a prescribed rate. Currently, our intention is to use 3% of NFT sales to buy back P4C tokens and burn them.
+
+  - **Rarity Burning**. By burning P4C tokens, rarity levels of NFTs can be increased, which may further unlock utilities and reward mechanisms.
 
 
 ## Links
